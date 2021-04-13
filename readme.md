@@ -17,3 +17,4 @@
  
 # Troisième bloc
  1. Sur la partie Admin linux et Réseau : comprehension d'une grande majorité de base, mais pas suffisant (6/10)
+ 2. RAS
